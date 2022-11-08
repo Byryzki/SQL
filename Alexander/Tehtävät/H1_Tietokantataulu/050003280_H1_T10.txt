@@ -1,0 +1,9 @@
+NOT NULL – ei puuttuvia arvoja
+▪ Sarakkeella on aina oltava ei-tyhjä arvo
+▪ Kielletään tyhjäarvot taulun luontilauseessa
+
+Kuitenkin toka sarakkeessa viimeinen arvo puuttu.
+
+-- Tietokantojen perusteet 2020
+-- H1 T10
+-- Alexandre.Lotta@tuni.fi (tuni-osoite)

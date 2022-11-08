@@ -1,0 +1,16 @@
+Where ehto:
+
+a.nimi = 'K2' - verrataan sarakkeen arvoa 
+merkkijonovakioon
+b.nimi <> 'K2' - eri suuri kuin
+c.korkeus = 8611 - yhtä suuri kuin
+d.korkeus <> 8611 -  eri suuri kuin
+e.korkeus IS NULL - tosi silloin, kun sarakkeessa on tyhjäarvo
+f.korkeus IS NOT NULL - tosi silloin, kun sarakkeessa on ei-tyhjä arvo
+
+Tyhjäarvon olemassaoloa testataan operaattoreilla IS NULL ja IS 
+NOT NULL
+
+-- Tietokantojen perusteet 2020
+-- H1 T11
+-- Alexandre.Lotta@tuni.fi (tuni-osoite)
